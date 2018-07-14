@@ -37,6 +37,6 @@ public class Collections {
         }
         System.out.println("Words in alphabetical order: = " + sortedSet);
         System.out.println("How many times each word occurs in the file: = " + statistics);
-        System.out.println("The word " + max[0]+ " occurs in the file " + c + " times");
+        System.out.println("The word " + max[0]+ " occurs in the file " + c + "  times");
     }
 }
